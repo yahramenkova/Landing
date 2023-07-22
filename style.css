@@ -253,4 +253,94 @@ right: 10px; /* Отступ справа */
 left: 608px; /* Отступ слева */
 bottom: 72px; /* Отступ снизу */
 }
+.block2{
+    display: flex;
+    width: 1200px;
+    height: 529.875px;
+    gap: 30px;
+    flex-shrink: 0;
+    margin-left: 120px;
+    }
+    
+    .img2{
+        width: 380px;
+    height: 288px;
+    flex-shrink: 0;
+    }
+    
+     
+     .block2 h1 {
+     color: #141414;
+    font-family: Playfair Display;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36.4px; /* 140% */
+    letter-spacing: 0.312px;
+    width: 211px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+     }
+    
+     .block2 h2{
+    color: #555;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.6px; /* 170% */
+    letter-spacing: 0.36px;
+    width: 370px;
+    margin-left: 0px;
+    margin-bottom: 15.5px;
+     }
+     .block2_1
+     {
+         width: 380px;
+    height: 529.875px;
+    flex-shrink: 0;
+    
+     left: 10px;
+     }
+    
+    .block2_2{
+        width: 380px;
+    height: 529.875px;
+    flex-shrink: 0;
+    }
+    
+    .block2_3{
+        width: 380px;
+    height: 529.875px;
+    flex-shrink: 0;
+    }
+.rectangle2 {
+    width: 1440px;
+    height: 836px;
+    flex-shrink: 0;
+    background: #EBF3F5;
+    margin-bottom: 1733px;
+    margin-top: 100px;
+}
+.button5 {
+  display: flex;
+  width: 157px;
+  height: 57px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border: 2px solid #5C8692;
+} 
+.button5 span{
+  color: #141414;
+  text-align: center;
+  font-family: Manrope;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19.5px; /* 150% */
+  letter-spacing: 1.56px;
+  text-transform: uppercase;
+}
+
 
