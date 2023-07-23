@@ -319,7 +319,7 @@ bottom: 72px; /* Отступ снизу */
     height: 836px;
     flex-shrink: 0;
     background: #EBF3F5;
-    margin-bottom: 1733px;
+    margin-bottom: 0px;
     margin-top: 100px;
 }
 .button5 {
@@ -435,4 +435,331 @@ bottom: 72px; /* Отступ снизу */
     left: 828px;
     background: url(block3-2.png), lightgray 50% / cover no-repeat;
     }
-
+    .containerPriceServices{
+        width: 1200px;
+        height: 1513px;
+        flex-shrink: 0;
+        margin-left: 92px;
+        margin-top: 0px;
+        }
+        .containerTextServices{
+            margin-top: 99px;
+        margin-left: 120px;
+        width: 1200px;
+        height: 143px;
+        flex-shrink: 0;
+        margin-left: 30px;
+        }
+        .containerTextServices h1{
+        color: #141414;
+        text-align: center;
+        font-family: Playfair Display;
+        font-size: 45px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 58.5px; /* 130% */
+        letter-spacing: 0.45px;
+        width: 580px;
+        margin-left: 307px;
+        margin-right: 0px;
+        margin-bottom: 0;
+        margin-top: 1px;
+        }
+        .containerTextServices h2{
+        color: #5C8692;
+        text-align: center;
+        font-family: Manrope;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22.5px; /* 150% */
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        width: 127px;
+        margin-left: 535px;
+        margin-bottom: 4px ;
+        margin-top: 13px;
+        }
+        .textblockServices
+        {display: flex;
+        flex-direction: column;
+        width: 540px;
+        height: 457px;
+        flex-shrink: 0;
+        margin-top: 60px;
+        margin-left: 60px}
+        .textPrice{
+        width: 540px;
+        height: 83px;
+        flex-shrink: 0;
+        margin-top: 1px;
+        margin-bottom: 13.13px;
+        }
+        .textPrice2{
+        width: 540px;
+        height: 83px;
+        flex-shrink: 0;
+        margin-bottom: 12px;
+        }
+        .textPrice3{
+        width: 540px;
+        height: 83px;
+        flex-shrink: 0;
+        margin-bottom: 11px;
+        }
+        .textPrice4{
+        width: 540px;
+        height: 83px;
+        flex-shrink: 0;
+        margin-bottom: 21px;
+        }
+        
+        .textPrice5{
+        width: 540px;
+        height: 83px;
+        flex-shrink: 0;
+        margin-top: 1px;
+        margin-bottom: 12px;
+        }
+        .textPrice6{
+        width: 540px;
+        height: 83px;
+        flex-shrink: 0;
+        margin-bottom: 12px;
+        }
+        .textPrice7{
+        width: 540px;
+        height: 83px;
+        flex-shrink: 0;
+        margin-bottom: 12px;
+        }
+        .textPrice8{
+        width: 540px;
+        height: 110px;
+        flex-shrink: 0;
+        margin-bottom: 21.12px;
+        }
+        .containerServices1{
+        display: flex;
+        width: 1200px;
+        height: 650px;
+        flex-shrink: 0;
+        background: #FFF;
+        margin-top: 70px;
+        margin-left: 28px;
+        margin-right: 120px;
+        }
+        
+        .img5{
+        width: 600px;
+        height: 650px;
+        flex-shrink: 0;
+        margin-left: 0;
+        margin-top: 0;
+        background: url(service1.png), lightgray 50% / cover no-repeat;
+        box-shadow: 1px 0px 18px 0px rgba(0, 0, 0, 0.20);
+        }
+        .containerServices2{
+        display: flex;
+        width: 1200px;
+        height: 650px;
+        flex-shrink: 0;
+        background: #FFF;
+        margin-top: 0px;
+        margin-left: 28px; 
+        }
+        .img6{
+        width: 600px;
+        height: 650px;
+        flex-shrink: 0;
+        margin-left: 60px;
+        margin-right: 500px;
+         margin-left: auto;
+        margin-top: 0.6px;
+        background: url(service2.png), lightgray 50% / cover no-repeat;
+        box-shadow: 1px 0px 18px 0px rgba(0, 0, 0, 0.20);
+        }
+        .textblockServices2
+        {display: flex;
+        flex-direction: column;
+        width: 540px;
+        height: 564px;
+        flex-shrink: 0;
+        margin-top: 141px;
+        margin-right: 60px;
+        margin-left: 0px;
+        }
+        .button6{
+        display: flex;
+         width: 248px;
+        height: 57px;
+        flex-shrink: 0;
+        border: 2px solid #5C8692;
+        justify-content: center;
+        align-items: center; 
+        }
+        .button6 p{
+        color: #141414;
+        text-align: center;
+        font-family: Manrope;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19.5px; /* 150% */
+        letter-spacing: 1.56px;
+        text-transform: uppercase;
+        }
+        .rectangle3 {
+            width: 1440px;
+            height: 655px;
+            flex-shrink: 0;
+            background: #EBF3F5;
+        }
+        .imgQuote{
+            width: 71px;
+        height: 56px;
+        flex-shrink: 0;
+        margin-top: 0px;
+        margin-left: 204.5px;
+        margin-bottom: 8px;
+        }
+        .imgQuote1{
+            width: 71px;
+        height: 56px;
+        flex-shrink: 0;
+        margin-top: 0px;
+        margin-left: 180.5px;
+        margin-bottom: 8px;
+        }
+        .rectangle3 h2{
+        color: #141414;
+        font-family: Manrope;
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32.3px; 
+        margin-top: 35px;
+        width: 523px;/* 170% */
+        }
+        .rectangle3 p{
+        color: #5C8692;
+        text-align: center;
+        font-family: Manrope;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22.5px; /* 150% */
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        margin: 0;
+        }
+        .rectangle3 h1{
+            color: #141414;
+        text-align: center;
+        font-family: Playfair Display;
+        font-size: 45px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 58.5px; /* 130% */
+        letter-spacing: 0.45px;
+        margin: 0;
+        }
+        .testimonialsblock{
+         display: flex;
+         width: 1200px;
+        padding: 100px 120px 0px 120px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 4px;
+        margin-top: 120px;
+        }
+        .blockcomments{
+        display: inline-flex;
+        height: 311px;
+        padding-left: 0px;
+        justify-content: flex-end;
+        align-items: flex-start;
+        gap: 20px;
+        flex-shrink: 0;
+        margin-top: 40px;
+        margin-left: 130px;}
+        .textCom{
+        display: flex;
+         flex-direction: column;
+        width: 167.375px;
+        height: 79px;
+        }
+        .comment{ display: inline-flex;
+        height: 79px;
+        justify-content: center;
+        align-items: flex-start;
+        flex-shrink: 0;
+        margin-top: 21px;
+        margin-left: 30px;
+        gap: 16px;
+        }
+        .blockcomments h1{
+        color: #FFF;
+        font-family: Playfair Display;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px; /* 120% */
+        letter-spacing: 0.24px;
+        margin-left: 0px;
+        margin-top: 1px;
+        width: 142px;
+        }
+        .blockcomments h3{
+        color: #FFF;
+        font-family: Manrope;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 21px; /* 150% */
+        letter-spacing: 0.42px;
+        width: 112px;
+        margin-left: 4px;
+        margin-top: 7.2px;
+        }
+        .commentsRectangle{
+        width: 600px;
+        height: 188px;
+        flex-shrink: 0;
+        background: #FFF;
+        }
+        .commentsRectangle1{
+        width: 600px;
+        height: 123px;
+        flex-shrink: 0;
+        background: #1E2C30;
+        margin-top: 24px;}
+        .imgAva1{
+        width: 75px;
+        height: 75px;
+        margin-top: 2px;
+        margin-left: 0px;
+        }
+        .imgStars{
+        width: 81px;
+        height: 21px;
+        flex-shrink: 0;
+        margin-top: 6px;
+        margin-left: 3px;
+           }
+        .commentsRectangle2{
+        width: 570px;
+        height: 188px;
+        flex-shrink: 0;
+        background: #FFF;
+        }
+        .commentsRectangle2 h2{
+        width: 475px;
+        }
+        .commentsRectangle3{width: 570px;
+        height: 123px;
+        flex-shrink: 0;
+        background: #1E2C30;
+        margin-top: 24px;
+        }
