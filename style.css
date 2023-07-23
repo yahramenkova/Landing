@@ -1020,4 +1020,144 @@ bottom: 72px; /* Отступ снизу */
                 background: #5C8692;
                 margin-left: 50px;
                 }
-                
+                .OurBlog{
+                    width: 1200px;
+                    margin-top: 40px;
+                    }
+                    .blockBlog{
+                    display: flex;
+                    gap: 1px;
+                    width: 1220px;
+                    height: 617px;
+                    flex-shrink: 0;
+                    margin-left: 110px;
+                    margin-top: 0px;
+                    }
+                    .textBlockBlog{
+                    width: 1200px;
+                    height: 85px;
+                    align-items: center;
+                    margin-top: 102px;
+                    margin-left: 120px;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    }
+                    .textBlockBlog h1{
+                    color: #141414;
+                    text-align: center;
+                    font-family: Playfair Display;
+                    font-size: 45px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 58.5px; /* 130% */
+                    letter-spacing: 0.45px;
+                    width: 313px;
+                    margin-top: 3.2px;
+                    }
+                    .textBlockBlog h2{
+                        color: #5C8692;
+                    text-align: center;
+                    font-family: Manrope;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 22.5px; /* 150% */
+                    letter-spacing: 1.5px;
+                    text-transform: uppercase;
+                    width: 90px;
+                    margin: 0px;
+                    }
+                    
+                    .subblockBlog{
+                    display: flex;
+                    width: 406.656px;
+                    padding: 0px 9.656px 0px 10px;
+                    flex-direction: column;
+                    margin-top: 66px;
+                    align-items: flex-start;
+                    }
+                    .blockBlog h1{
+                    color: #141414;
+                    font-family: Playfair Display;
+                    font-size: 22px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 30.8px; /* 140% */
+                    letter-spacing: 0.44px;
+                    width: 328px;
+                    margin-left: 24.5px;
+                    margin-bottom: 0px;
+                    margin-top: 15px;
+                    }
+                    .blockBlog p{
+                        color: #555;
+                    font-family: Manrope;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 27px; /* 150% */
+                    letter-spacing: 0.36px;
+                    width: 327px;
+                    margin-left: 24.5px;
+                    margin-top: 13px;
+                    }
+                    .blockBlog h2{
+                    color: #5C8692;
+                    font-family: Manrope;
+                    font-size: 13px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 19.5px; /* 150% */
+                    letter-spacing: 0.78px;
+                    text-transform: uppercase;
+                    margin: 0px;
+                    
+                    }
+                    .blockrec{
+                    width: 387px;
+                    height: 255px;
+                    flex-shrink: 0;
+                    background: #EBF3F5;
+                    }
+                    .minrec{
+                     background: #141414 ;
+                     width: 26px;
+                    height: 0.3px;
+                    border: 2px solid #141414;
+                    margin-left: 15px;
+                    }
+                    .textSubBlockBlog{
+                    display: inline-flex;
+                    justify-content: center;
+                    align-items: center;
+                    gap: 11.5px;
+                    margin-top: 29px;
+                    margin-left: 25px;
+                    }
+                    .img9{
+                        width: 387px;
+                    height: 342px;
+                    margin-top: 0px;
+                    }
+                    .buttonBlog{
+                        width: 230px;
+                    height: 57px;
+                    flex-shrink: 0;
+                    border: 2px solid #5C8692;
+                    margin-top: 58px;
+                    margin-left: 605px;
+                    }
+                    .buttonBlog span{
+                    color: #141414;
+                    text-align: center;
+                    font-family: Manrope;
+                    font-size: 13px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 19.5px; /* 150% */
+                    letter-spacing: 1.56px;
+                    text-transform: uppercase;
+                    width: 166px;
+                    margin-left: 24.5px;
+                    }
