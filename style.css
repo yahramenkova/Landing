@@ -1146,7 +1146,7 @@ bottom: 72px; /* Отступ снизу */
                         height: 57px;
                         flex-shrink: 0;
                         border: 2px solid #5C8692;
-                        margin-top: 58px;
+                        margin-top: 57px;
                         margin-left: 605px;
                         cursor: pointer;
                         transition: background-color 0.3s ease; }
@@ -1164,7 +1164,7 @@ bottom: 72px; /* Отступ снизу */
                     letter-spacing: 1.56px;
                     text-transform: uppercase;
                     width: 166px;
-                    margin-left: 24.5px;
+                    margin-left: 0px;
                     }
                     .rectangle5{
                         width: 1440px;
@@ -1375,5 +1375,34 @@ bottom: 72px; /* Отступ снизу */
                 .endImg3{
                 width: 17px;
                 height: 18px;
+                flex-shrink: 0;
+                }
+                footer {
+                    display: flex;
+                    justify-content: center;
+                    width: 1440px;
+                    align-items: center;
+                    height: 62px;
+                    flex-shrink: 0;
+                    background: #111E22;
+                    margin-bottom: 0;
+                    margin-top: 0px;
+                }
+                footer span {
+                    color: #FFF;
+                text-align: center;
+                font-family: Manrope;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 22.5px; /* 150% */
+                letter-spacing: 0.15px;
+                }
+                .blockFooter{
+                 display: flex;
+                width: 1200px;
+                height: 22px;
+                justify-content: center;
+                align-items: flex-start;
                 flex-shrink: 0;
                 }
