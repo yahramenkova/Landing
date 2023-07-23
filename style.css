@@ -763,3 +763,86 @@ bottom: 72px; /* Отступ снизу */
         background: #1E2C30;
         margin-top: 24px;
         }
+        .Benefit{
+            width: 1200px;
+            height: 623px;
+            }
+            
+            .textBlockBenefits{display: flex;
+            width: 1200px;
+            padding: 88px 120px 0px;
+            flex-direction: column;
+            margin-top: 0px;
+            align-items: center;
+            gap: 4px;}
+            
+            .textBlockBenefits h1{color: #141414;
+            text-align: center;
+            font-family: Playfair Display;
+            font-size: 45px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 58.5px; /* 130% */
+            letter-spacing: 0.45px;
+            width: 496px;
+            margin-top: 0;
+            }
+            
+            .textBlockBenefits h2{
+            color: #5C8692;
+            text-align: center;
+            font-family: Manrope;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 22.5px; /* 150% */
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            width: 217px;
+            margin-bottom: 0px;
+            margin-right: 28px;
+            
+            }
+            .blockBenefits{
+             display: grid;
+             grid-template-columns: 373.328px 373.328px 373.328px;
+             grid-column-gap: 40px;
+             grid-row-gap: 50px;
+            width: 1200px;
+            height: 468px;
+            flex-shrink: 0;
+            margin-left: 120px;
+            margin-top: 34.5px;
+            }
+            .blockBenefits h1{color: #141414;
+            font-family: Playfair Display;
+            font-size: 26px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 36.4px; /* 140% */
+            letter-spacing: 0.312px;
+            margin-top: 14px;
+            margin-bottom: 0px;
+            }
+            .blockBenefits p{color: #555;
+            font-family: Manrope;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 27px; /* 150% */
+            margin-top: 11px;
+            }
+            .blockBenefits1{
+            display: flex;
+            flex-direction: column;
+            width: 373.328px;
+            height: 209px;
+            flex-shrink: 0;
+            }
+            .img7{
+                width: 94px;
+            height: 94px;
+            flex-shrink: 0;
+            margin-top: 0;
+            margin-left: 0;
+            }
